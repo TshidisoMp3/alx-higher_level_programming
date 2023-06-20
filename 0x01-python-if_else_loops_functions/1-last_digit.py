@@ -18,5 +18,3 @@ elif Tld == 0:
     print(f"{Tld:d} and is 0")
 else:
     print(f"{Tld:d} and is less then 6 and not 0")
-
-
