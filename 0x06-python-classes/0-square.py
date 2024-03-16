@@ -11,7 +11,6 @@ class Square:
     Attributes:
     none.
     """
-
     def __init__(self):
         """
         This initializes the size of the square
