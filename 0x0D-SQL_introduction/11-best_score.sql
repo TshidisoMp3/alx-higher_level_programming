@@ -1,4 +1,4 @@
 -- list of all records on second_table with score >= 10
-SELECT `id`, `name`, `score` 
+SELECT `score`, `name`
 FROM `second_table`
 WHERE `score` >= 10
