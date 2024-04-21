@@ -1,0 +1,12 @@
+===================================================
+            How to use ADD interger
+===================================================
+
+This function is an interger function of adding 2 or more numbers
+
+
+Application
+===========
+The use of this function is to combine two or more arguments 
+
+
