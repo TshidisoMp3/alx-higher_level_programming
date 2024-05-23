@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Square that defines a square based on 3-square.py"""
+"""Square that defines a square based on 4-square.py"""
 
 
 class Square:
@@ -27,3 +27,11 @@ class Square:
 
     def area(self):
         return self.__size * self.__size
+
+    def my_print(self):
+        if self.__size == 0:
+            print('')
+        for s in range(self.__size):
+            for os in range(self.__size):
+                print('#', end='')
+            print('')
