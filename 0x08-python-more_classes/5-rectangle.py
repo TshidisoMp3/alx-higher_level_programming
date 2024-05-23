@@ -2,13 +2,6 @@
 """Rectangle that defines a rectangle based on 4-rectangle.py"""
 
 
-#!/usr/bin/python3
-
-"""
-This is a module for a class Rectangle
-"""
-
-
 class Rectangle:
     """Class of a Rectangle"""
 
